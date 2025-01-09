@@ -5,4 +5,3 @@ export const pokemon = {
     name: 'Pikachu',
 }
 
-console.log(pokemon);
